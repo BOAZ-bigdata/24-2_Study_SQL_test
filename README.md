@@ -2,10 +2,7 @@
 BOAZ 2024-2 데이터분석을 위한 SQL 코테 스터디
 ---
 
-## 룰
-
-
-스터디 운영 방식 :
+## 스터디 운영 방식 
 1. 8명의 인원이 각각 2문제씩 설명할 문제를 가져옵니다.
 예시)
 🔗[https://www.notion.so/1-_-91ef05717754471c8e1b2de50c4bffd7?pvs=4](https://principled-saturnalia-c46.notion.site/1-_-91ef05717754471c8e1b2de50c4bffd7?pvs=74)  
