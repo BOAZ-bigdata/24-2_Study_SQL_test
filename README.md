@@ -3,10 +3,11 @@ BOAZ 2024-2 데이터분석을 위한 SQL 코테 스터디
 ---
 
 ## 룰
-https://www.notion.so/1-_-91ef05717754471c8e1b2de50c4bffd7?pvs=4
+
 
 스터디 운영 방식 :
 1. 8명의 인원이 각각 2문제씩 설명할 문제를 가져옵니다.
+예시) 🔗https://www.notion.so/1-_-91ef05717754471c8e1b2de50c4bffd7?pvs=4
 2. 7분간 시간을 재고 문제를 풀이한 후, 해당 문제를 준비해 온사람이 5분간 풀이를 설명합니다.
   - 10문제 * (7분 풀이 + 5분 해설=)12분 = 120분(2시간 예상)
 
@@ -20,26 +21,17 @@ https://www.notion.so/1-_-91ef05717754471c8e1b2de50c4bffd7?pvs=4
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/mokhs00">
+      <a href="https://github.com/InWooOh">
         <img src="https://avatars.githubusercontent.com/u/72328687?v=4" width="100px;" alt=""/>
         <br />
         <sub>
-          <b> 김이정</b>
+          <b>오인우</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/kyounghunJang">
+      <a href="https://github.com/jiji-heo">
         <img src="https://avatars.githubusercontent.com/u/77001421?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>
-          <b>오인</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/whereami2048">
-        <img src="https://avatars.githubusercontent.com/u/104913654?s=400&u=7a8be4e17a415f325add4d9f5f8ad92a71dc4e2c&v=4" width="100px;" alt=""/>
         <br />
         <sub>
           <b>허지윤</b>
@@ -47,11 +39,20 @@ https://www.notion.so/1-_-91ef05717754471c8e1b2de50c4bffd7?pvs=4
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/miining">
+      <a href="https://github.com/wlsisl">
+        <img src="https://avatars.githubusercontent.com/u/104913654?s=400&u=7a8be4e17a415f325add4d9f5f8ad92a71dc4e2c&v=4" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>백지연</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/oymin2001">
         <img src="https://avatars.githubusercontent.com/u/97791413?v=4" width="100px" alt =""/>
         <br />
         <sub>
-          <b>백다</b>
+          <b>오영민</b>
         </sub>
       </a>
     </td>
@@ -65,11 +66,20 @@ https://www.notion.so/1-_-91ef05717754471c8e1b2de50c4bffd7?pvs=4
       </a>
     </td>
      <td align="center">
-      <a href="https://github.com/JIHYUN2EE">
+      <a href="https://github.com/shashamalone">
         <img src="https://avatars.githubusercontent.com/u/145944218?s=400&v=4" width="100px" alt =""/>
         <br />
         <sub>
-          <b>오영민민</b>
+          <b>김이정</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shashamalone">
+        <img src="https://avatars.githubusercontent.com/u/145944218?s=400&v=4" width="100px" alt =""/>
+        <br />
+        <sub>
+          <b>백다은</b>
         </sub>
       </a>
     </td>
