@@ -23,7 +23,7 @@ BOAZ 2024-2 데이터분석을 위한 SQL 코테 스터디
   <tr>
     <td align="center">
       <a href="https://github.com/InWooOh">
-        <img src="https://avatars.githubusercontent.com/u/72328687?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/77001421?v=4" width="100px;" alt=""/>
         <br />
         <sub>
           <b>오인우</b>
@@ -32,7 +32,7 @@ BOAZ 2024-2 데이터분석을 위한 SQL 코테 스터디
     </td>
     <td align="center">
       <a href="https://github.com/jiji-heo">
-        <img src="https://avatars.githubusercontent.com/u/77001421?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/145944218?s=400&v=4" width="100px;" alt=""/>
         <br />
         <sub>
           <b>허지윤</b>
@@ -41,7 +41,7 @@ BOAZ 2024-2 데이터분석을 위한 SQL 코테 스터디
     </td>
     <td align="center">
       <a href="https://github.com/wlsisl">
-        <img src="https://avatars.githubusercontent.com/u/104913654?s=400&u=7a8be4e17a415f325add4d9f5f8ad92a71dc4e2c&v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/77001421?v=4" width="100px;" alt=""/>
         <br />
         <sub>
           <b>백지연</b>
@@ -50,25 +50,16 @@ BOAZ 2024-2 데이터분석을 위한 SQL 코테 스터디
     </td>
     <td align="center">
       <a href="https://github.com/oymin2001">
-        <img src="https://avatars.githubusercontent.com/u/97791413?v=4" width="100px" alt =""/>
+        <img src="https://avatars.githubusercontent.com/u/77001421?v=4" width="100px" alt =""/>
         <br />
         <sub>
           <b>오영민</b>
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/g-hyeong">
-        <img src="https://avatars.githubusercontent.com/u/60197194?v=4" width="100px" alt =""/>
-        <br />
-        <sub>
-          <b>백지연</b>
-        </sub>
-      </a>
-    </td>
      <td align="center">
       <a href="https://github.com/shashamalone">
-        <img src="https://avatars.githubusercontent.com/u/145944218?s=400&v=4" width="100px" alt =""/>
+        <img src="https://avatars.githubusercontent.com/u/77001421?v=4" width="100px" alt =""/>
         <br />
         <sub>
           <b>김이정</b>
