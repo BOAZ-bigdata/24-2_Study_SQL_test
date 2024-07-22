@@ -69,7 +69,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/shashamalone">
+      <a href="https://github.com/nuebaek">
         <img src="https://avatars.githubusercontent.com/u/145944218?s=400&v=4" width="100px" alt =""/>
         <br />
         <sub>
